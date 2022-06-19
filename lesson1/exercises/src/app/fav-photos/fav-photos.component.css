@@ -1,12 +1,16 @@
 h3 {
-   color: brown;
+   color: orangered;
 }
 
 img {
- margin: 20px;
+ margin: 5px;
  border-style: double;
  border-color: black;
  border-width: 10px;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .photos {
